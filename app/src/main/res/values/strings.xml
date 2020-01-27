@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CryptoInfo</string>
+    <string name="notif_title">Bitcoin price Alert!</string>
+    <string name="notif_message">Buy the bitcoin at reduced rate</string>
+    <string name="notif_bigText">Check the opening price for bitcoin</string>
+    <string name="chart_desc">Price over time</string>
+    <string name="tapText">TAP to display graph</string>
+    <string name="buttonText">View OrderTable</string>
+    <string name="trackText">Track price for bitcoin</string>
+    <string name="hintText">price</string>
+    <string name="bidsText">Bids</string>
+    <string name="asksText">Asks</string>
+
+</resources>
